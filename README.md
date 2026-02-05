@@ -100,6 +100,7 @@ The dashboard enables dynamic filtering for better business decision-making.
 
 **## Snapshots**
 
-![Customer_Behavior_Analysis](Screenshots\Customer_Analysis.png)
-![Customer_Behavior_Analysis](Screenshots\Customer_Analysis_2.png)
-![Customer_Behavior_Analysis](Screenshots\Customer_Analysis_3.png)
+![Customer_Behavior_Analysis](Screenshots/Customer_Analysis.png)
+![Customer_Behavior_Analysis](Screenshots/Customer_Analysis_2.png)
+![Customer_Behavior_Analysis](Screenshots/Customer_Analysis_3.png)
+
