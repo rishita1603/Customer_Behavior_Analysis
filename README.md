@@ -96,4 +96,10 @@ The dashboard enables dynamic filtering for better business decision-making.
 * Optimize discount strategies to protect profit margins
 * Promote top-rated and best-selling products
 * Focus marketing efforts on high-revenue customer segments
-* 
+
+
+**## Snapshots**
+
+![Customer_Behavior_Analysis](Screenshots\Customer_Analysis.png)
+![Customer_Behavior_Analysis](Screenshots\Customer_Analysis_2.png)
+![Customer_Behavior_Analysis](Screenshots\Customer_Analysis_3.png)
